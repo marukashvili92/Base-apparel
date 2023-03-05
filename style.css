@@ -182,6 +182,12 @@ form:invalid .error-msg{
     }
 }
 
+@media screen and (min-width: 1366px) {
+    main{
+        background-position-x: 845px;
+    }
+}
+
 @media screen and (min-width:1440px) {
     body{
         background-size: 60%;
